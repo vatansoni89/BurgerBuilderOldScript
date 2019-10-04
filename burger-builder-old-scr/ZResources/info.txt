@@ -1,0 +1,8 @@
+src:
+  assets
+  components: state-less
+    Layout:
+      Layout.js
+  containers: stateful
+  App.js
+  index.js

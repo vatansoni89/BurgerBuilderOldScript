@@ -1,3 +1,8 @@
+create react app:
+  create-react-app burger-builder-old-scr --scripts-version 1.0.13
+  cd react-complete-guide
+  npm start
+---------------------------------------------------------------------------------------------------------
 src:
   assets
   components: state-less
@@ -6,3 +11,10 @@ src:
   containers: stateful
   App.js
   index.js
+
+
+index
+  App
+    Layout: state-less
+      BurgerBuilder: stateful
+Aux      

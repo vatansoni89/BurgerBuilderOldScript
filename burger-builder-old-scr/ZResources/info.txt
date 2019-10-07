@@ -19,6 +19,7 @@ index
       BurgerBuilder: stateful
         Burger
           BurgerIngredient
+            PropTypes
 Aux      
 
 --------------------------------------------------------------------------

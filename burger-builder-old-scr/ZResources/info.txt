@@ -30,3 +30,7 @@ Added PropTypes:
   npm install --save prop-types
 
   ----------------------------------------------------------------------
+
+  reduce():
+    without this it's array of array.
+    

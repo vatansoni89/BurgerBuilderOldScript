@@ -17,7 +17,15 @@ index
   App
     Layout: state-less
       BurgerBuilder: stateful
+        Burger
+          BurgerIngredient
 Aux      
 
 --------------------------------------------------------------------------
 Added Dynamic ingredient component.
+
+------------------------------------------------------
+Added PropTypes:
+  npm install --save prop-types
+
+  ----------------------------------------------------------------------

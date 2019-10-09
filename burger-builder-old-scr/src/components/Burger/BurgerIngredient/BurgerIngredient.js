@@ -37,7 +37,7 @@ const burgerIngredient = props => {
       ingredient = null;
       break;
   }
-  return ingredient;
+  return ingredient; // We use return because we are using {} for logic.
 };
 
 burgerIngredient.propTypes = {

@@ -6,6 +6,9 @@ create react app:
 src:
   assets
   components: state-less
+    UI
+      Modal
+      Backdrop
     Layout:
       Layout.js
   containers: stateful
@@ -22,6 +25,8 @@ index
             PropTypes
         BuildControls
           BuildControl
+        Modal
+          OrderSummary
             
 Aux      
 
